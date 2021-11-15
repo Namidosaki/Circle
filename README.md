@@ -1,6 +1,5 @@
 <div id="top"></div>
-[![LinkedIn][linkedin-shield]][linkedin-url]
-  <h3 align="center">README</h3>
+<h3 align="center">README</h3>
   <p align="center">
 	  This project is just an example.
 	  Nothing serious.
